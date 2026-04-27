@@ -72,8 +72,8 @@
 ## 📬 Let's Connect!
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="mailto:sudo0295@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Email Me">
+  <a href="mailto:contatoweslley@proton.me">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=proton&logoColor=white" title="Email Me">
   </a>
 </div>
 
